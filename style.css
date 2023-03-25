@@ -1,0 +1,23 @@
+body{
+    background-color: floralwhite;
+}
+/*h2 {
+    background-image: url("https://img.craiyon.com/2023-03-25/ddbfb0d497b94811b32732eb8374f91b.webp");
+    padding: 150x;
+    color: #c5b4d8;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center; 
+    border-radius: 30%;
+    border-style: solid;
+    background-color: #c5b4d8;
+}*/
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+h1{
+    color:#fcde67;
+    background-color:#e1eedd;
+}
